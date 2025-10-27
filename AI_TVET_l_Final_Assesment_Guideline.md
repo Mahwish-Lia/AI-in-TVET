@@ -197,7 +197,7 @@ This assessment challenges you to apply everything you've learned in this course
 
 ### What You're Creating
 
-A **Microcredential course** that addresses a specific skill gap in a TVET sector of your choice, thoughtfully integrating AI tools to enhance learning outcomes.
+Select a Curricular Goal from UNESCO's AI Students"s Competency Framework to design a **Microcredential course** that addresses a specific skill gap in a TVET sector of your choice, thoughtfully integrating AI tools to enhance learning outcomes.
 
 >Deliverable: Liascript markdown files for all learning nuggets.
 
@@ -572,3 +572,4 @@ Any updates to this assessment brief will be announced via [communication channe
 ---
 
 *This assessment brief is created with LiaScript—practice what we preach! View the source on GitHub to see how it's structured.*
+
