@@ -7,7 +7,7 @@ narrator: US English Female
 
 comment:  Mini-Workshop: Human-Centred Approach to AI in TVET Education
 
-icon:     https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/UNESCO_logo.svg/200px-UNESCO_logo.svg.png
+icon:     https://liascript.github.io/img/favicon.png
 
 -->
 
@@ -374,4 +374,5 @@ UNESCO. (2024). *AI competency framework for teachers*. UNESCO. https://doi.org/
 Workshop materials adapted from:
 - README (30) (1).md
 - 386693eng (2).pdf - UNESCO Guidance for generative AI in education and research
+
 - AI competency Framework for Teachers.pdf
